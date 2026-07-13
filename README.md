@@ -13,7 +13,4 @@ I build full stack applications that real people depend on — not demo apps, pr
 ![](https://streak-stats.demolab.com/?user=Diwasmishra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Diwasmishra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Diwasmishra&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
